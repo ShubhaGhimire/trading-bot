@@ -7,7 +7,7 @@ A Python-based automated trading bot utilizing real-time API integrations for ma
 ## 🎓 Academic Context
 * **Institution:** Kathmandu University (KU)
 * **Program:** Bachelor of Information Technology (BIT)
-* **Course Project:** [Insert Class Name, e.g., Procedural Programming / Personal Project]
+* **Course Project:** SOLO PROJECT
 * **Developer:** Shubha Ghimire
 
 ---
