@@ -27,7 +27,7 @@ A Python-based automated trading bot utilizing real-time API integrations for ma
 
 ## 💻 Getting Started
 
-### 1. Clone the Repository
+### 1. Clone of the Repository
 ```bash
 git clone [https://github.com/ShubhaGhimire/trading-bot.git](https://github.com/ShubhaGhimire/trading-bot.git)
 cd trading-bot
